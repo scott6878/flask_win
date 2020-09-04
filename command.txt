@@ -18,3 +18,4 @@
 7. 확인 -  https://github.com/scott6878/flask_win
 
 8. 여기서 부터는 ....
+   https://flask-docs-kr.readthedocs.io/ko/latest/tutorial/templates.html
