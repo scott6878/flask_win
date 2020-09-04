@@ -1,0 +1,11 @@
+
+
+1. python install
+2. Viusal studio Code install
+3. python -m venv flask
+4. Scripts\activate ( Powser shell - Set-ExecutionPolicy Unrestricted  ) 
+   https://infinitt.tistory.com/43
+   
+5. git remote add origin https://github.com/scott6878/flask_win.git 
+   https://evols-atirev.tistory.com/14
+   https://miaow-miaow.tistory.com/17   
