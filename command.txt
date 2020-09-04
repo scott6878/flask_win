@@ -10,3 +10,5 @@
    https://evols-atirev.tistory.com/14
    https://miaow-miaow.tistory.com/17   
 6. https://github.com/scott6878/flask_win
+
+7. 여기서 부터는 ....
