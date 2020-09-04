@@ -6,9 +6,15 @@
 4. Scripts\activate ( Powser shell - Set-ExecutionPolicy Unrestricted  ) 
    https://infinitt.tistory.com/43
 
-5. git remote add origin https://github.com/scott6878/flask_win.git 
-   https://evols-atirev.tistory.com/14
-   https://miaow-miaow.tistory.com/17   
-6. https://github.com/scott6878/flask_win
+5. # git install # 
+   https://miaow-miaow.tistory.com/17  
 
-7. 여기서 부터는 ....
+6. git remote add origin https://github.com/scott6878/flask_win.git 
+   git branch -M master
+   git push -u origin master
+
+   https://evols-atirev.tistory.com/14
+  
+7. 확인 -  https://github.com/scott6878/flask_win
+
+8. 여기서 부터는 ....
